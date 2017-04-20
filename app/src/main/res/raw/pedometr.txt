@@ -1,0 +1,1 @@
+A pedometer is a sensor used for counting the number of steps that the user has taken.

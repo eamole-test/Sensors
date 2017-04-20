@@ -1,0 +1,1 @@
+A proximity sensor is a sensor able to detect the presence of nearby objects without any physical contact.

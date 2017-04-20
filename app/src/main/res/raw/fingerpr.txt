@@ -1,0 +1,1 @@
+The fingerprint sensor is used as an extra layer of security – as a substitute for a password.

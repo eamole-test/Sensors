@@ -1,0 +1,1 @@
+Used to measure the current radiation level in the area.

@@ -1,0 +1,1 @@
+A light sensor measures how bright the ambient light is.
